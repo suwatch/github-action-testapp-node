@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: suwatchga01
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B5EE64C793043808205D44EEFC804DA }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B35AF0BD28674C04804D35C5D6B84C20 }}
         package: .
 
